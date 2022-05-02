@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tiko8686.github.io/static/css/main.aa453742.css",
+    "main.js": "/Tiko8686.github.io/static/js/main.2e0f3e95.js",
+    "index.html": "/Tiko8686.github.io/index.html",
+    "main.aa453742.css.map": "/Tiko8686.github.io/static/css/main.aa453742.css.map",
+    "main.2e0f3e95.js.map": "/Tiko8686.github.io/static/js/main.2e0f3e95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa453742.css",
+    "static/js/main.2e0f3e95.js"
+  ]
+}
